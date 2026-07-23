@@ -1,0 +1,392 @@
+{
+  "sourceLanguage" : "ja",
+  "strings" : {
+    "" : {
+
+    },
+    "%lld%%" : {
+
+    },
+    "https://www.youtube.com/watch?v=..." : {
+
+    },
+    "M4A" : {
+
+    },
+    "MKV" : {
+
+    },
+    "MP3" : {
+
+    },
+    "MP4" : {
+
+    },
+    "YouTubeから検索" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search from YouTube"
+          }
+        }
+      }
+    },
+    "アーティスト:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artist:"
+          }
+        }
+      }
+    },
+    "エラーが発生しました" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An error has occurred"
+          }
+        }
+      }
+    },
+    "キーワードを入力（例: 音楽 作業用）" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search by keyword"
+          }
+        }
+      }
+    },
+    "キーワード検索" : {
+
+    },
+    "このアプリを実行するには、以下のコマンドラインツールが必要です。ターミナルでHomebrewを使用してインストールしてください。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To run this app, you'll need the following command-line tools. Please install them using Homebrew in Terminal."
+          }
+        }
+      }
+    },
+    "コピー" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "コピーしてターミナルを開く" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy and open Terminal"
+          }
+        }
+      }
+    },
+    "コピーしました！" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copied!"
+          }
+        }
+      }
+    },
+    "サムネイルも一緒に保存する" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save with thumbnail"
+          }
+        }
+      }
+    },
+    "タイトル:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title:"
+          }
+        }
+      }
+    },
+    "ダウンロード" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download"
+          }
+        }
+      }
+    },
+    "ダウンロードオプション" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download Option"
+          }
+        }
+      }
+    },
+    "ダウンロード中..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downloading"
+          }
+        }
+      }
+    },
+    "ダウンロード完了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downloaded"
+          }
+        }
+      }
+    },
+    "プロセスログ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Process Log"
+          }
+        }
+      }
+    },
+    "ログをコピー" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy the log"
+          }
+        }
+      }
+    },
+    "依存ツールが不足しています" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is a shortage of dependency tools."
+          }
+        }
+      }
+    },
+    "保存先フォルダーを開く" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open the destination folder"
+          }
+        }
+      }
+    },
+    "停止" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop"
+          }
+        }
+      }
+    },
+    "再チェック" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recheck"
+          }
+        }
+      }
+    },
+    "動画" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Video"
+          }
+        }
+      }
+    },
+    "動画のURLを入力" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter the video URL"
+          }
+        }
+      }
+    },
+    "動画の詳細情報を解析しています..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyzing the video details..."
+          }
+        }
+      }
+    },
+    "動画ファイルとして保存" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save as video file"
+          }
+        }
+      }
+    },
+    "品質:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quality:"
+          }
+        }
+      }
+    },
+    "実行するコマンド:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commands to execute:"
+          }
+        }
+      }
+    },
+    "後で" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Later"
+          }
+        }
+      }
+    },
+    "拡張子:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extension:"
+          }
+        }
+      }
+    },
+    "未検出のツール:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undetected tools:"
+          }
+        }
+      }
+    },
+    "検索" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "検索結果" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search Results"
+          }
+        }
+      }
+    },
+    "残り時間: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remaining:"
+          }
+        }
+      }
+    },
+    "解析" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyze"
+          }
+        }
+      }
+    },
+    "閉じる" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "音声のみ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audio Only"
+          }
+        }
+      }
+    },
+    "音声ファイルとして保存" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save as audio file"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.3"
+}
