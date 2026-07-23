@@ -18,14 +18,6 @@
 
 ---
 
-## 🖥 Screenshots
-
-| Download Options Modal |
-| :---: |
-| *(Place your screenshot here)* |
-
----
-
 ## 🚀 How to Use
 
 1. **Search or Input URL**
@@ -41,12 +33,10 @@
 
 ---
 
-## 🛠 Tech Stack (Example)
+## 🛠 Tech Stack
 
-*Adjust this section to match your project's technology:*
-
-* **GUI Framework**: Electron / PyQt / Tkinter / Tauri
-* **Backend Utilities**: `yt-dlp` / `ffmpeg`
+* **GUI Framework**: SwiftUI
+* **Backend Utilities**: `yt-dlp` / `ffmpeg` / `deno`
 
 ---
 
