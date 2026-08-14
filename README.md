@@ -15,7 +15,7 @@
   * **Metadata Editing**: Customize title and artist tags before downloading.
   * **Thumbnail Saving**: Option to download and save the video thumbnail image together.
 * **Process Log**: Built-in log viewer to monitor download status and progress in real time.
-* **Multi Language Support*(Japanese, English)
+* **Multi Language Support**(Japanese, English)
 
 ---
 
