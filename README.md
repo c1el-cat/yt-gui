@@ -47,6 +47,11 @@
 
 ---
 
+## 🙌🏻 Thanks
+Icon: [@renorari](https://github.com/renorari)
+
+---
+
 ## 📄 License
 
 [AGPL License](LICENSE)
