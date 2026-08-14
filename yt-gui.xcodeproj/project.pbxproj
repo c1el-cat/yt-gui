@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA39FCFF302EC66700778FC5 /* yt-gui.icon in Resources */ = {isa = PBXBuildFile; fileRef = BA39FCFE302EC66700778FC5 /* yt-gui.icon */; };
 		BAAAE37F30108E9600E8CC1D /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = BAAAE37E30108E9600E8CC1D /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BA0A656F300B1084002C46E1 /* yt-gui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "yt-gui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA39FCFE302EC66700778FC5 /* yt-gui.icon */ = {isa = PBXFileReference; lastKnownFileType = folder.iconcomposer.icon; path = "yt-gui.icon"; sourceTree = "<group>"; };
 		BAAAE37E30108E9600E8CC1D /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -37,6 +39,7 @@
 			children = (
 				BAAAE37E30108E9600E8CC1D /* Localizable.xcstrings */,
 				BA0A6571300B1084002C46E1 /* yt-gui */,
+				BA39FCFE302EC66700778FC5 /* yt-gui.icon */,
 				BA0A6570300B1084002C46E1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -109,6 +112,7 @@
 		BA0A656D300B1084002C46E1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				BA39FCFF302EC66700778FC5 /* yt-gui.icon in Resources */,
 				BAAAE37F30108E9600E8CC1D /* Localizable.xcstrings in Resources */,
 			);
 		};
@@ -248,7 +252,7 @@
 		BA0A657B300B1085002C46E1 /* Debug configuration for PBXNativeTarget "yt-gui" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "yt-gui";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -281,7 +285,7 @@
 		BA0A657C300B1085002C46E1 /* Release configuration for PBXNativeTarget "yt-gui" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "yt-gui";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
